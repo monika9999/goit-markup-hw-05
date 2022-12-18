@@ -230,6 +230,7 @@ body {
 .box-title {
   position: relative;
   overflow: hidden;
+  font-size: 0;
 }
 
 .background-box-title {
